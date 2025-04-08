@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PascualFort
-- 🔍 I’m a 23-year-old Full Stack Developer, always eager to learn and grow. Fluent in English, Spanish, Catalan, and with basic French.
+- 🔍 I’m a Full Stack Developer always eager to learn and grow. Fluent in English, Spanish, Catalan, and with basic French.
 - 🚀 Passionate about technology since a young age, with 10 years of experience in developing mobile apps, websites, databases, servers, APIs, and other software across various environments.
 - 💻 My skills include TypeScript, JavaScript (vanilla), Node, Electron, React, React Native, AngularJs, NextJs, Nestjs, Java, Dart, Python, PHP, Laravel, MySQL, PostgreSQL, Mongo, GraphQL, Firebase, Shell, Bash, XML, XSL, XPath, CSS, JQuery, Ajax, MIPS, apex, and C#. Familiar with teamwork tools like Git, Notion, Slack, ClickUp, Jira, Trello, Scrum, Clockify, and Doppler.
 - 👨‍💻 Currently working at Salescaling as a Software Developer, focusing on a CRM system that integrates with Salesforce and HubSpot.
